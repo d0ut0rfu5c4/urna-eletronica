@@ -1,8 +1,0 @@
-{
-  "name": "UrnaEletronica",
-  "integrations": {
-    "capacitor": {},
-    "cordova": {}
-  },
-  "type": "angular"
-}
